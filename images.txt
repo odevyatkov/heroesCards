@@ -1,0 +1,142 @@
+Копейщик	http://www.heroes-centrum.com/img/units/hrad/lvl1.jpg
+Алебардщик	http://www.heroes-centrum.com/img/units/hrad/lvl1upg.jpg
+Лучник	http://www.heroes-centrum.com/img/units/hrad/lvl2.jpg
+Стрелок	http://www.heroes-centrum.com/img/units/hrad/lvl2upg.jpg
+Грифон	http://www.heroes-centrum.com/img/units/hrad/lvl3.jpg
+Королевский грифон	http://www.heroes-centrum.com/img/units/hrad/lvl3upg.jpg
+Рыцарь	http://www.heroes-centrum.com/img/units/hrad/lvl4.jpg
+Крестоносец	http://www.heroes-centrum.com/img/units/hrad/lvl4upg.jpg
+Монах	http://www.heroes-centrum.com/img/units/hrad/lvl5.jpg
+Фанатик	http://www.heroes-centrum.com/img/units/hrad/lvl5upg.jpg
+Кавалерист	http://www.heroes-centrum.com/img/units/hrad/lvl6.jpg
+Чемпион	http://www.heroes-centrum.com/img/units/hrad/lvl6upg.jpg
+Ангел	http://www.heroes-centrum.com/img/units/hrad/lvl7.jpg
+Архангел	http://www.heroes-centrum.com/img/units/hrad/lvl7upg.jpg
+Кентавр	http://www.heroes-centrum.com/img/units/basta/lvl1.jpg
+Капитан кентавров	http://www.heroes-centrum.com/img/units/basta/lvl1upg.jpg
+Гном	http://www.heroes-centrum.com/img/units/basta/lvl2.jpg
+Боевой гном	http://www.heroes-centrum.com/img/units/basta/lvl2upg.jpg
+Эльф	http://www.heroes-centrum.com/img/units/basta/lvl3.jpg
+Великий эльф	http://www.heroes-centrum.com/img/units/basta/lvl3upg.jpg
+Пегас	http://www.heroes-centrum.com/img/units/basta/lvl4.jpg
+Серебряный пегас	http://www.heroes-centrum.com/img/units/basta/lvl4upg.jpg
+Страж-дендроид	http://www.heroes-centrum.com/img/units/basta/lvl5.jpg
+Дендроид-солдат	http://www.heroes-centrum.com/img/units/basta/lvl5upg.jpg
+Единорог	http://www.heroes-centrum.com/img/units/basta/lvl6.jpg
+Боевой единорог	http://www.heroes-centrum.com/img/units/basta/lvl6upg.jpg
+Зеленый дракон	http://www.heroes-centrum.com/img/units/basta/lvl7.jpg
+Золотой дракон	http://www.heroes-centrum.com/img/units/basta/lvl7upg.jpg
+Гремлин	http://www.heroes-centrum.com/img/units/vez/lvl1.jpg
+Мастер-гремлин	http://www.heroes-centrum.com/img/units/vez/lvl1upg.jpg
+Каменная гаргулия	http://www.heroes-centrum.com/img/units/vez/lvl2.jpg
+Обсидиановая гаргулия	http://www.heroes-centrum.com/img/units/vez/lvl2upg.jpg
+Каменный голем	http://www.heroes-centrum.com/img/units/vez/lvl3.jpg
+Железный голем	http://www.heroes-centrum.com/img/units/vez/lvl3upg.jpg
+Маг	http://www.heroes-centrum.com/img/units/vez/lvl4.jpg
+Архи-маг	http://www.heroes-centrum.com/img/units/vez/lvl4upg.jpg
+Джин	http://www.heroes-centrum.com/img/units/vez/lvl5.jpg
+Мастер-джин	http://www.heroes-centrum.com/img/units/vez/lvl5upg.jpg
+Нага	http://www.heroes-centrum.com/img/units/vez/lvl6.jpg
+Королева-нага	http://www.heroes-centrum.com/img/units/vez/lvl6upg.jpg
+Гигант	http://www.heroes-centrum.com/img/units/vez/lvl7.jpg
+Титан	http://www.heroes-centrum.com/img/units/vez/lvl7upg.jpg
+Скелет	http://www.heroes-centrum.com/img/units/nekropolis/lvl1.jpg
+Воин-скелет	http://www.heroes-centrum.com/img/units/nekropolis/lvl1upg.jpg
+Живой мертвец	http://www.heroes-centrum.com/img/units/nekropolis/lvl2.jpg
+Зомби	http://www.heroes-centrum.com/img/units/nekropolis/lvl2upg.jpg
+Страж	http://www.heroes-centrum.com/img/units/nekropolis/lvl3.jpg
+Привидение	http://www.heroes-centrum.com/img/units/nekropolis/lvl3upg.jpg
+Вампир	http://www.heroes-centrum.com/img/units/nekropolis/lvl4.jpg
+Вампир-лорд	http://www.heroes-centrum.com/img/units/nekropolis/lvl4upg.jpg
+Лич	http://www.heroes-centrum.com/img/units/nekropolis/lvl5.jpg
+Могущественный лич	http://www.heroes-centrum.com/img/units/nekropolis/lvl5upg.jpg
+Черный рыцарь	http://www.heroes-centrum.com/img/units/nekropolis/lvl6.jpg
+Рыцарь смерти	http://www.heroes-centrum.com/img/units/nekropolis/lvl6upg.jpg
+Костяной дракон	http://www.heroes-centrum.com/img/units/nekropolis/lvl7.jpg
+Дракон-привидение	http://www.heroes-centrum.com/img/units/nekropolis/lvl7upg.jpg
+Троглодит	http://www.heroes-centrum.com/img/units/kobka/lvl1.jpg
+Адский троглодит	http://www.heroes-centrum.com/img/units/kobka/lvl1upg.jpg
+Гарпия	http://www.heroes-centrum.com/img/units/kobka/lvl2.jpg
+Гарпия-ведьма	http://www.heroes-centrum.com/img/units/kobka/lvl2upg.jpg
+Созерцатель	http://www.heroes-centrum.com/img/units/kobka/lvl3.jpg
+Злой глаз	http://www.heroes-centrum.com/img/units/kobka/lvl3upg.jpg
+Медуза	http://www.heroes-centrum.com/img/units/kobka/lvl4.jpg
+Королева медуза	http://www.heroes-centrum.com/img/units/kobka/lvl4upg.jpg
+Минотавр	http://www.heroes-centrum.com/img/units/kobka/lvl5.jpg
+Король-минотавр	http://www.heroes-centrum.com/img/units/kobka/lvl5upg.jpg
+Мантикора	http://www.heroes-centrum.com/img/units/kobka/lvl6.jpg
+Скорпикора	http://www.heroes-centrum.com/img/units/kobka/lvl6upg.jpg
+Красный дракон	http://www.heroes-centrum.com/img/units/kobka/lvl7.jpg
+Черный дракон	http://www.heroes-centrum.com/img/units/kobka/lvl7upg.jpg
+Бес	http://www.heroes-centrum.com/img/units/peklo/lvl1.jpg
+Черт	http://www.heroes-centrum.com/img/units/peklo/lvl1upg.jpg
+Гог	http://www.heroes-centrum.com/img/units/peklo/lvl2.jpg
+Магог	http://www.heroes-centrum.com/img/units/peklo/lvl2upg.jpg
+Адская гончая	http://www.heroes-centrum.com/img/units/peklo/lvl3.jpg
+Цербер	http://www.heroes-centrum.com/img/units/peklo/lvl3upg.jpg
+Демон	http://www.heroes-centrum.com/img/units/peklo/lvl4.jpg
+Рогатый демон	http://www.heroes-centrum.com/img/units/peklo/lvl4upg.jpg
+Порождение зла	http://www.heroes-centrum.com/img/units/peklo/lvl5.jpg
+Адское отродье	http://www.heroes-centrum.com/img/units/peklo/lvl5upg.jpg
+Эфрит	http://www.heroes-centrum.com/img/units/peklo/lvl6.jpg
+Эфрит-султан	http://www.heroes-centrum.com/img/units/peklo/lvl6upg.jpg
+Дьявол	http://www.heroes-centrum.com/img/units/peklo/lvl7.jpg
+Архидьявол	http://www.heroes-centrum.com/img/units/peklo/lvl7upg.jpg
+Гнолл	http://www.heroes-centrum.com/img/units/pevnost/lvl1.jpg
+Гнолл-мародер	http://www.heroes-centrum.com/img/units/pevnost/lvl1upg.jpg
+Ящер	http://www.heroes-centrum.com/img/units/pevnost/lvl2.jpg
+Ящер-воин	http://www.heroes-centrum.com/img/units/pevnost/lvl2upg.jpg
+Змий	http://www.heroes-centrum.com/img/units/pevnost/lvl3.jpg
+Стрекоза	http://www.heroes-centrum.com/img/units/pevnost/lvl3upg.jpg
+Василиск	http://www.heroes-centrum.com/img/units/pevnost/lvl4.jpg
+Великий василиск	http://www.heroes-centrum.com/img/units/pevnost/lvl4upg.jpg
+Горгона	http://www.heroes-centrum.com/img/units/pevnost/lvl5.jpg
+Могучая горгона	http://www.heroes-centrum.com/img/units/pevnost/lvl5upg.jpg
+Виверн	http://www.heroes-centrum.com/img/units/pevnost/lvl6.jpg
+Виверн-монарх	http://www.heroes-centrum.com/img/units/pevnost/lvl6upg.jpg
+Гидра	http://www.heroes-centrum.com/img/units/pevnost/lvl7.jpg
+Гидра хаоса	http://www.heroes-centrum.com/img/units/pevnost/lvl7upg.jpg
+Гоблин	http://www.heroes-centrum.com/img/units/tvrz/lvl1.jpg
+Хобгоблин	http://www.heroes-centrum.com/img/units/tvrz/lvl1upg.jpg
+Наездник на волках	http://www.heroes-centrum.com/img/units/tvrz/lvl2.jpg
+Налетчик	http://www.heroes-centrum.com/img/units/tvrz/lvl2upg.jpg
+Орк	http://www.heroes-centrum.com/img/units/tvrz/lvl3.jpg
+Орк-вождь	http://www.heroes-centrum.com/img/units/tvrz/lvl3upg.jpg
+Людоед	http://www.heroes-centrum.com/img/units/tvrz/lvl4.jpg
+Людоед-маг	http://www.heroes-centrum.com/img/units/tvrz/lvl4upg.jpg
+Птица рух	http://www.heroes-centrum.com/img/units/tvrz/lvl5.jpg
+Птица грома	http://www.heroes-centrum.com/img/units/tvrz/lvl5upg.jpg
+Циклоп	http://www.heroes-centrum.com/img/units/tvrz/lvl6.jpg
+Король циклопов	http://www.heroes-centrum.com/img/units/tvrz/lvl6upg.jpg
+Чудище	http://www.heroes-centrum.com/img/units/tvrz/lvl7.jpg
+Древнее чудище	http://www.heroes-centrum.com/img/units/tvrz/lvl7upg.jpg
+Маленькая фея	http://www.heroes-centrum.com/img/units/conflux/lvl1.jpg
+Фея	http://www.heroes-centrum.com/img/units/conflux/lvl1upg.jpg
+Воздушный элементаль	http://www.heroes-centrum.com/img/units/conflux/lvl2.jpg
+Элементаль шторма	http://www.heroes-centrum.com/img/units/conflux/lvl2upg.jpg
+Элементаль воды	http://www.heroes-centrum.com/img/units/conflux/lvl3.jpg
+Ледяной элементаль	http://www.heroes-centrum.com/img/units/conflux/lvl3upg.jpg
+Огненный элементаль	http://www.heroes-centrum.com/img/units/conflux/lvl4.jpg
+Энергетический элементаль	http://www.heroes-centrum.com/img/units/conflux/lvl4upg.jpg
+Элементаль земли	http://www.heroes-centrum.com/img/units/conflux/lvl5.jpg
+Элементаль магмы	http://www.heroes-centrum.com/img/units/conflux/lvl5upg.jpg
+Психический элементаль	http://www.heroes-centrum.com/img/units/conflux/lvl6.jpg
+Магический элементаль	http://www.heroes-centrum.com/img/units/conflux/lvl6upg.jpg
+Огненная птица	http://www.heroes-centrum.com/img/units/conflux/lvl7.jpg
+Феникс	http://www.heroes-centrum.com/img/units/conflux/lvl7upg.jpg
+Крестьянин	http://h3world.chat.ru/14-NEITR.JPG
+Хоббит	http://h3world.chat.ru/13-NEITR.JPG
+Кабан	http://h3world.chat.ru/17-NEITR.JPG
+Вор	http://h3world.chat.ru/16-NEITR.JPG
+Кочевник	http://www.klubcentres.ru/img_heroes3_ab/neitr12.jpg
+Мумия	http://h3world.chat.ru/18-NEITR.JPG
+Снайпер	http://h3world.chat.ru/6-NEITRAL.JPG
+	
+Золотой голем	http://h3world.chat.ru/11-NEITR.JPG
+Тролль	http://h3world.chat.ru/15-NEITR.JPG
+Алмазный голем	http://h3world.chat.ru/12-NEITR.JPG
+Чародей	http://h3world.chat.ru/5-NEITRAL.JPG
+Сказочный дракон	http://h3world.chat.ru/3-NEITRAL.JPG
+Ржавый дракон	http://h3world.chat.ru/4-NEITRAL.JPG
+Кристальный дракон	http://h3world.chat.ru/2-NEITRAL.JPG
+Лазурный дракон	http://h3world.chat.ru/1-NEITRAL.JPG

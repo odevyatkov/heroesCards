@@ -1,0 +1,166 @@
+Копейщики	http://www.heroes-centrum.com/img/units/hrad/lvl1.jpg	4	5	1 - 3	10	4			1	
+Алебардщики	http://www.heroes-centrum.com/img/units/hrad/lvl1upg.jpg	6	5	2 - 3	10	5			1	Имеет иммунитет к Кавалерийскому бонусу Кавалеристов и Чемпионов
+Арбалетчики	http://www.heroes-centrum.com/img/units/hrad/lvl2.jpg	6	3	2 - 3	10	4		12	2	Стрелок.
+Тяжёлые Арбалетчики	http://www.heroes-centrum.com/img/units/hrad/lvl2upg.jpg	6	3	2 - 3	10	6		24	2	Стрелок. Атакуют дважды.
+Грифоны	http://www.heroes-centrum.com/img/units/hrad/lvl3.jpg	8	8	3 - 6	25	6			3	Большое существо. Летун. Отвечают дважды.
+Королевские грифоны	http://www.heroes-centrum.com/img/units/hrad/lvl3upg.jpg	9	9	3 - 6	25	9			3	Большое существо. Летун. Отвечают дважды.
+Мечники	http://www.heroes-centrum.com/img/units/hrad/lvl4.jpg	10	12	6 - 9	35	5			4	
+Крестоносцы	http://www.heroes-centrum.com/img/units/hrad/lvl4upg.jpg	12	12	7 - 10	35	6			4	Атакуют дважды.
+Монахи	http://www.heroes-centrum.com/img/units/hrad/lvl5.jpg	12	7	10 - 12	30	5		12	5	Стрелок. Нет шрафа рукопашной.
+Фанатики	http://www.heroes-centrum.com/img/units/hrad/lvl5upg.jpg	12	10	10 - 12	30	7		24	5	Стрелок. Нет шрафа рукопашной.
+Кавалеристы	http://www.heroes-centrum.com/img/units/hrad/lvl6.jpg	15	15	15 - 25	100	7			6	Большое существо. Кавалерийский бонус.
+Чемпионы	http://www.heroes-centrum.com/img/units/hrad/lvl6upg.jpg	16	16	20 - 25	100	9			6	Большое существо. Кавалерийский бонус.
+Ангелы	http://www.heroes-centrum.com/img/units/hrad/lvl7.jpg	20	20	50	200	12			7	Летун. Всегда положительная мораль. +1 к морали войск. Ненавидят Дьяволов.
+Архангелы	http://www.heroes-centrum.com/img/units/hrad/lvl7upg.jpg	30	30	50	250	18			7	Большое существо. Летун. Всегда положительная мораль. +1 к морали войск. Ненавидят Дьяволов. Колдун (Воскрешение).
+Кентавры	http://www.heroes-centrum.com/img/units/basta/lvl1.jpg	5	3	2 - 3	8	6			1	Большое существо.
+Капитан-кентавры	http://www.heroes-centrum.com/img/units/basta/lvl1upg.jpg	6	3	2 - 3	10	8			1	Большое существо.
+Гномы	http://www.heroes-centrum.com/img/units/basta/lvl2.jpg	6	7	2 - 4	20	3			2	Сопротивление магии (20%).
+Боевые гномы	http://www.heroes-centrum.com/img/units/basta/lvl2upg.jpg	7	7	2 - 4	20	5			2	Сопротивление магии (40%).
+Эльфы	http://www.heroes-centrum.com/img/units/basta/lvl3.jpg	9	5	3 - 5	15	6		24	3	Стрелок.
+Благородные эльфы	http://www.heroes-centrum.com/img/units/basta/lvl3upg.jpg	9	5	3 - 5	15	7		24	3	Стрелок. Стреляют дважды.
+Пегасы	http://www.heroes-centrum.com/img/units/basta/lvl4.jpg	9	8	5 - 9	30	8			4	Большое существо. Летун. Подавление магии (повышают цену заклинаний противника на 2 SP).
+Серебристые пегасы	http://www.heroes-centrum.com/img/units/basta/lvl4upg.jpg	9	10	5 - 9	30	12			4	Большое существо. Летун. Подавление магии.
+Дендроиды-охранники	http://www.heroes-centrum.com/img/units/basta/lvl5.jpg	9	12	10 - 14	55	3			5	Корни.
+Дендроиды-солдаты	http://www.heroes-centrum.com/img/units/basta/lvl5upg.jpg	9	12	10 - 14	65	4			5	Корни.
+Единороги	http://www.heroes-centrum.com/img/units/basta/lvl6.jpg	15	14	18 - 22	90	7			6	Большое существо. Аура сопротивления (20%). Ослепляют (20%).
+Боевые единороги	http://www.heroes-centrum.com/img/units/basta/lvl6upg.jpg	15	14	18 - 22	110	9			6	Большое существо. Аура сопротивления (20%). Ослепляют (20%).
+Зеленые драконы	http://www.heroes-centrum.com/img/units/basta/lvl7.jpg	18	18	40 - 50	180	10			7	Большое существо. Иммуннитет к заклинаниям 1-3 уровня. Двуклеточная атака.
+Золотые драконы	http://www.heroes-centrum.com/img/units/basta/lvl7upg.jpg	27	27	40 - 50	250	16			7	Большое существо. Иммуннитет к заклинаниям 1-4 уровня. Двуклеточная атака.
+Гремлины	http://www.heroes-centrum.com/img/units/vez/lvl1.jpg	3	3	1 - 2	4	4			1	
+Мастер-Гремлины	http://www.heroes-centrum.com/img/units/vez/lvl1upg.jpg	4	4	1 - 2	4	5		8	1	Стрелок.
+Каменные гаргулии	http://www.heroes-centrum.com/img/units/vez/lvl2.jpg	6	6	2 - 3	16	6			2	Летун. Голем.
+Обсидиановые гаргулии	http://www.heroes-centrum.com/img/units/vez/lvl2upg.jpg	7	7	2 - 3	16	9			2	Летун. Голем.
+Каменные големы	http://www.heroes-centrum.com/img/units/vez/lvl3.jpg	7	10	4 - 5	30	3			3	Голем. Поглощает 50% урона от магии.
+Железные големы	http://www.heroes-centrum.com/img/units/vez/lvl3upg.jpg	9	10	4 - 5	35	5			3	Голем. Поглощает 75% урона от магии.
+Маги	http://www.heroes-centrum.com/img/units/vez/lvl4.jpg	11	8	7 - 9	25	5		24	4	Стрелок. Нет штрафа рукопашной. Снижают цену магии на 2 SP.
+Архи-маги	http://www.heroes-centrum.com/img/units/vez/lvl4upg.jpg	12	9	7 - 9	30	7		24	4	Стрелок. Нет штрафа рукопашной. Снижают цену магии на 2 SP. Нет штрафа за препятствия.
+Джины	http://www.heroes-centrum.com/img/units/vez/lvl5.jpg	12	12	13 - 16	40	7			5	Ненавидят Эфритов. Летун.
+Мастер-джины	http://www.heroes-centrum.com/img/units/vez/lvl5upg.jpg	12	12	13 - 16	40	11			5	Колдун (дружественные заклинания (3)). Ненавидят Эфритов. Летун.
+Наги	http://www.heroes-centrum.com/img/units/vez/lvl6.jpg	16	13	20	110	5			6	Большое существо. Безответная атака.
+Королевы-Наги	http://www.heroes-centrum.com/img/units/vez/lvl6upg.jpg	16	13	30	110	7			6	Большое существо. Безответная атака.
+Гиганты	http://www.heroes-centrum.com/img/units/vez/lvl7.jpg	19	16	40 - 60	150	7			7	Ненавидит Красных Драконов.
+Титаны	http://www.heroes-centrum.com/img/units/vez/lvl7upg.jpg	24	24	40 - 60	300	11		24	7	Стрелок. Ненавидит Чёрных Драконов. Иммунитет к Магии разума.
+Скелеты	http://www.heroes-centrum.com/img/units/nekropolis/lvl1.jpg	5	4	1 - 3	6	4			1	Нежить
+Скелеты-воины	http://www.heroes-centrum.com/img/units/nekropolis/lvl1upg.jpg	6	6	1 - 3	6	5			1	Нежить
+Живые мертвецы	http://www.heroes-centrum.com/img/units/nekropolis/lvl2.jpg	5	5	2 - 3	15	3			2	Нежить
+Зомби	http://www.heroes-centrum.com/img/units/nekropolis/lvl2upg.jpg	5	5	2 - 3	20	4			2	Нежить, Болезнь (20%)
+Стражи	http://www.heroes-centrum.com/img/units/nekropolis/lvl3.jpg	7	7	3 - 5	18	5			3	Нежить, Летун
+Призраки	http://www.heroes-centrum.com/img/units/nekropolis/lvl3upg.jpg	7	7	3 - 5	18	7			3	Нежить, Летун, Рассеивание маны, Регенерация
+Вампиры	http://www.heroes-centrum.com/img/units/nekropolis/lvl4.jpg	10	9	5 - 8	30	6			4	Нежить, Летун, Безответная атака
+Вампиры-лорды	http://www.heroes-centrum.com/img/units/nekropolis/lvl4upg.jpg	10	10	5 - 8	40	9			4	Нежить, Летун, Безответная атака, Вамиризм
+Личи	http://www.heroes-centrum.com/img/units/nekropolis/lvl5.jpg	13	10	11 - 13	30	6		12	5	Нежить, Стрелок, Урон по площади
+Могущественные личи	http://www.heroes-centrum.com/img/units/nekropolis/lvl5upg.jpg	13	10	11 - 15	40	7		24	5	Нежить, Стрелок, Урон по площади
+Черные рыцари	http://www.heroes-centrum.com/img/units/nekropolis/lvl6.jpg	16	16	15 - 30	120	7			6	Нежить, Большое существо
+Рыцари смерти	http://www.heroes-centrum.com/img/units/nekropolis/lvl6upg.jpg	18	18	15 - 30	120	9			6	Нежить, Большое существо, Критический удар, Проклятие (20%)
+Костяные драконы	http://www.heroes-centrum.com/img/units/nekropolis/lvl7.jpg	17	15	25 - 50	150	9			7	Нежить, Большое существо, Летун, Понижение морали противника (-1)
+Драконы-привидения	http://www.heroes-centrum.com/img/units/nekropolis/lvl7upg.jpg	19	17	25 - 50	200	14			7	Нежить, Большое существо, Летун, Старость (20%), Понижение морали противника (-1)
+Троглодиты	http://www.heroes-centrum.com/img/units/kobka/lvl1.jpg	4	3	1 - 3	5	4			1	Иммунитет к ослеплению.
+Адские троглодиты	http://www.heroes-centrum.com/img/units/kobka/lvl1upg.jpg	5	4	1 - 3	6	5			1	Иммунитет к ослеплению.
+Гарпии	http://www.heroes-centrum.com/img/units/kobka/lvl2.jpg	5	6	1 - 4	14	6			2	Летун. Возвращается.
+Гарпии-ведьмы	http://www.heroes-centrum.com/img/units/kobka/lvl2upg.jpg	6	6	1 - 4	14	9			2	Летун. Возвращается. Враг не отвечает.
+Созерцатели	http://www.heroes-centrum.com/img/units/kobka/lvl3.jpg	9	7	3 - 5	22	5		12	3	Стрелок. Нет штрафа рукопашной.
+Злые глаза	http://www.heroes-centrum.com/img/units/kobka/lvl3upg.jpg	10	8	3 - 5	22	7		24	3	Стрелок. Нет штрафа рукопашной.
+Медузы	http://www.heroes-centrum.com/img/units/kobka/lvl4.jpg	9	9	6 - 8	25	5		4	4	Большое существо. Стрелок. Нет штрафа рукопашной.
+Королевы-медузы	http://www.heroes-centrum.com/img/units/kobka/lvl4upg.jpg	10	10	6 - 8	30	6		8	4	Большое существо. Стрелок. Нет штрафа рукопашной. Окаменяют (20%).
+Минотавры	http://www.heroes-centrum.com/img/units/kobka/lvl5.jpg	14	12	12 - 20	50	6			5	Всегда положительная мораль.
+Короли-минотавры	http://www.heroes-centrum.com/img/units/kobka/lvl5upg.jpg	15	15	12 - 20	50	8			5	Всегда положительная мораль.
+Мантикоры	http://www.heroes-centrum.com/img/units/kobka/lvl6.jpg	15	13	14 - 20	80	7			6	Большое существо. Летун.
+Скорпикоры	http://www.heroes-centrum.com/img/units/kobka/lvl6upg.jpg	16	14	14 - 20	80	11			6	Большое существо. Летун. Паралич (20%).
+Красные драконы	http://www.heroes-centrum.com/img/units/kobka/lvl7.jpg	19	19	40 - 50	180	11			7	Большое существо. Летун. Атака на 2 клетки. Иммунитет к магии до 3 уровня. Ненавидят Гигантов.
+Черные драконы	http://www.heroes-centrum.com/img/units/kobka/lvl7upg.jpg	25	25	40 - 50	300	15			7	Большое существо. Летун. Атака на 2 клетки. Иммунитет к магии. Ненавидят Гигантов.
+Бесы	http://www.heroes-centrum.com/img/units/peklo/lvl1.jpg	2	3	1 - 2	4	5			1	
+Черти	http://www.heroes-centrum.com/img/units/peklo/lvl1upg.jpg	4	4	1 - 2	4	7			1	Ворует ману.
+Гоги	http://www.heroes-centrum.com/img/units/peklo/lvl2.jpg	6	4	2 - 4	13	4		12	2	Стрелок.
+Магоги	http://www.heroes-centrum.com/img/units/peklo/lvl2upg.jpg	7	4	2 - 4	13	6		24	2	Стрелок. Атака по площади.
+Адские псы	http://www.heroes-centrum.com/img/units/peklo/lvl3.jpg	10	6	2 - 7	25	7			3	Большое существо.
+Церберы	http://www.heroes-centrum.com/img/units/peklo/lvl3upg.jpg	10	8	2 - 7	25	8			3	Большое существо. Трёхголовая атака.
+Демоны	http://www.heroes-centrum.com/img/units/peklo/lvl4.jpg	10	10	7 - 9	35	5			4	
+Рогатые демоны	http://www.heroes-centrum.com/img/units/peklo/lvl4upg.jpg	10	10	7 - 9	40	6			4	
+Порождения зла	http://www.heroes-centrum.com/img/units/peklo/lvl5.jpg	13	13	13 - 17	45	6			5	
+Питлорды	http://www.heroes-centrum.com/img/units/peklo/lvl5upg.jpg	13	13	13 - 17	45	7			5	Поднимает Демонов.
+Эфриты	http://www.heroes-centrum.com/img/units/peklo/lvl6.jpg	16	12	16 - 24	90	9			6	Иммунитет к Магии Огня. Ненавидят Джинов.
+Султан-эфриты	http://www.heroes-centrum.com/img/units/peklo/lvl6upg.jpg	16	14	16 - 24	90	13			6	Иммунитет к Магии Огня. Ненавидят Джинов. Огненный щит.
+Дьяволы	http://www.heroes-centrum.com/img/units/peklo/lvl7.jpg	19	21	30 - 40	160	11			7	Враг не отвечает. -1 Удачи врага. Ненавидят Ангелов.
+Архидьяволы	http://www.heroes-centrum.com/img/units/peklo/lvl7upg.jpg	26	28	30 - 40	200	17			7	Враг не отвечает. -1 Удачи врага. Ненавидят Ангелов.
+Гноллы	http://www.heroes-centrum.com/img/units/pevnost/lvl1.jpg	3	5	2 - 3	6	4			1	
+Гноллы-мародеры	http://www.heroes-centrum.com/img/units/pevnost/lvl1upg.jpg	4	6	2 - 3	6	5			1	
+Ящеры	http://www.heroes-centrum.com/img/units/pevnost/lvl2.jpg	5	6	2 - 3	14	4		12	2	Стрелок.
+Ящеры-воины	http://www.heroes-centrum.com/img/units/pevnost/lvl2upg.jpg	6	8	2 - 5	15	5		24	2	Стрелок.
+Змеемухи	http://www.heroes-centrum.com/img/units/pevnost/lvl3.jpg	7	9	2 - 5	20	9			3	Летун. Снятие заклинаний.
+Дракономухи	http://www.heroes-centrum.com/img/units/pevnost/lvl3upg.jpg	8	10	2 - 5	20	13			3	Летун. Снятие заклинаний. Слабость.
+Василиски	http://www.heroes-centrum.com/img/units/pevnost/lvl4.jpg	11	11	6 - 10	35	5			4	Большое существо.
+Великие василиски	http://www.heroes-centrum.com/img/units/pevnost/lvl4upg.jpg	12	12	6 - 10	40	7			4	Большое существо. Окаменяют (20%).
+Горгоны	http://www.heroes-centrum.com/img/units/pevnost/lvl5.jpg	10	14	12 - 16	70	5			5	Большое существо.
+Могучие горгоны	http://www.heroes-centrum.com/img/units/pevnost/lvl5upg.jpg	11	16	12 - 16	70	6			5	Большое существо. Взгляд Смерти (10%*n).
+Виверны	http://www.heroes-centrum.com/img/units/pevnost/lvl6.jpg	14	14	14 - 18	70	7			6	Большое существо. Летун.
+Виверны-монархи	http://www.heroes-centrum.com/img/units/pevnost/lvl6upg.jpg	14	14	18 - 22	70	11			6	Большое существо. Летун. Отравляют (50%).
+Гидры	http://www.heroes-centrum.com/img/units/pevnost/lvl7.jpg	16	18	25 - 45	175	5			7	Большое существо. Атакуют всех вокруг.
+Хаос-Гидры	http://www.heroes-centrum.com/img/units/pevnost/lvl7upg.jpg	18	20	25 - 45	250	7			7	Большое существо. Атакуют всех вокруг.
+Гоблины	http://www.heroes-centrum.com/img/units/tvrz/lvl1.jpg	4	2	1 - 2	5	5			1	
+Хобгоблины	http://www.heroes-centrum.com/img/units/tvrz/lvl1upg.jpg	5	3	1 - 2	5	7			1	
+Наездники на волках	http://www.heroes-centrum.com/img/units/tvrz/lvl2.jpg	7	5	2 - 4	10	6			2	Большое существо.
+Налетчики	http://www.heroes-centrum.com/img/units/tvrz/lvl2upg.jpg	8	5	3 - 4	10	8			2	Большое существо. Двойная атака.
+Орки	http://www.heroes-centrum.com/img/units/tvrz/lvl3.jpg	8	4	2 - 5	15	4		12	3	Стрелок.
+Орки-вожди	http://www.heroes-centrum.com/img/units/tvrz/lvl3upg.jpg	8	4	2 - 5	20	5		24	3	Стрелок.
+Огры	http://www.heroes-centrum.com/img/units/tvrz/lvl4.jpg	13	7	6 - 12	40	4			4	
+Огры-шаманы	http://www.heroes-centrum.com/img/units/tvrz/lvl4upg.jpg	13	7	6 - 12	60	5			4	Колдун (Жажда крови (3)).
+Птицы Рух	http://www.heroes-centrum.com/img/units/tvrz/lvl5.jpg	13	11	11 - 15	60	7			5	Большое существо. Летун.
+Птицы Грома	http://www.heroes-centrum.com/img/units/tvrz/lvl5upg.jpg	13	11	11 - 15	60	11			5	Большое существо. Летун. Удар Молнии (20%).
+Циклопы	http://www.heroes-centrum.com/img/units/tvrz/lvl6.jpg	15	12	16 - 20	70	6		16	6	Стрелок. Атакует стены.
+Короли-циклопы	http://www.heroes-centrum.com/img/units/tvrz/lvl6upg.jpg	17	13	16 - 20	70	8		24	6	Стрелок. Атакует стены.
+Чудища	http://www.heroes-centrum.com/img/units/tvrz/lvl7.jpg	17	17	30 - 50	160	6			7	Большое существо. Снижают защиту противника (40%).
+Древние чудища	http://www.heroes-centrum.com/img/units/tvrz/lvl7upg.jpg	19	19	30 - 50	300	9			7	Большое существо. Снижают защиту противника (80%).
+Маленькие феи	http://www.heroes-centrum.com/img/units/conflux/lvl1.jpg	2	2	1 - 2	3	7			1	Летун.
+Феи	http://www.heroes-centrum.com/img/units/conflux/lvl1upg.jpg	2	2	1 - 3	3	9			1	Летун. Безответная атака.
+Воздушные элементали	http://www.heroes-centrum.com/img/units/conflux/lvl2.jpg	9	9	2 - 8	25	7			2	Иммунитет к Слепоте и Метеоритному дождю. Уязвимость к Молнии, Цепной молнии и Огненному шару.
+Элементали шторма	http://www.heroes-centrum.com/img/units/conflux/lvl2upg.jpg	9	9	2 - 8	25	8		24	2	Стрелок. Иммунитет к Слепоте и Метеоритному дождю. Уязвимость к Молнии, Цепной молнии и Огненному шару. Колдун (Защита от Воздуха).
+Элементали воды	http://www.heroes-centrum.com/img/units/conflux/lvl3.jpg	8	10	3 - 7	30	5			3	Большое существо. Иммунитет к Магии Воды. Уязвимость к Магии Огня.
+Ледяные элементали	http://www.heroes-centrum.com/img/units/conflux/lvl3upg.jpg	8	10	3 - 7	30	6		24	3	Большое существо. Стрелок. Иммунитет к Магии Воды. Уязвимость к Магии Огня. Колдун (Защита от Воды).
+Огненные элементали	http://www.heroes-centrum.com/img/units/conflux/lvl4.jpg	10	8	4 - 6	35	6			4	Иммунитет к Стреле магии и Молнии. Иммунитет к Магии Огня. Уязвимость к Магии Воды.
+Энергетические элементали	http://www.heroes-centrum.com/img/units/conflux/lvl4upg.jpg	12	8	4 - 6	35	8			4	Летун. Иммунитет к Стреле магии и Молнии. Иммунитет к Магии Огня. Уязвимость к Магии Воды. Колдун (Защита от Огня).
+Элементали земли	http://www.heroes-centrum.com/img/units/conflux/lvl5.jpg	10	10	4 - 8	40	4			5	Уязвимость к Метеоритному дождю.
+Элементали магмы	http://www.heroes-centrum.com/img/units/conflux/lvl5upg.jpg	11	11	4 - 8	40	6			5	Уязвимость к Метеоритному дождю. Колдун (Защита от Земли).
+Психические элементали	http://www.heroes-centrum.com/img/units/conflux/lvl6.jpg	15	13	10 - 20	75	7			6	Безответная атака. Атакуют всех вокруг. Иммунитет к Магии разума.
+Магические элементали	http://www.heroes-centrum.com/img/units/conflux/lvl6upg.jpg	15	13	15 - 25	80	9			6	Безответная атака. Атакуют всех вокруг. Иммунитет к магии.
+Огненные птицы	http://www.heroes-centrum.com/img/units/conflux/lvl7.jpg	18	18	30 - 40	150	15			7	Большое существо. Летун. Двуклеточная атака. Иммунитет к Магии Огня.
+Фениксы	http://www.heroes-centrum.com/img/units/conflux/lvl7upg.jpg	21	18	30 - 40	200	21			7	Большое существо. Летун. Двуклеточная атака. Иммунитет к Магии Огня. Возрождаются (20%).
+Крестьяне	http://h3world.chat.ru/14-NEITR.JPG	1	1	1	1	3			0	
+Хоббиты	http://h3world.chat.ru/13-NEITR.JPG	4	2	1 - 3	4	5		24	1	Всегда имеет положительную удачу
+Наездники на вепря	http://h3world.chat.ru/17-NEITR.JPG	6	5	2 - 3	15	6	8		3	Большое существо.
+Воры	http://h3world.chat.ru/16-NEITR.JPG	8	3	2 - 4	10	6			2	Позваляет узнать точную информацию о армии и герое противника.
+Кочевники	http://www.klubcentres.ru/img_heroes3_ab/neitr12.jpg	9	8	2 - 6	30	7			3	Большое существо. Не имеет штрафа при передвижении по песку.
+Мумии	http://h3world.chat.ru/18-NEITR.JPG	7	7	3 - 5	30	5			3	Нежить, Проклятие
+Снайперы	http://h3world.chat.ru/6-NEITRAL.JPG	12	10	8 - 10	15	9	4	32	4	Не имеет штрафа при стрельбе на расстояние и преграды. Штраф при рукопашной - 50%.
+Золотые големы	http://h3world.chat.ru/11-NEITR.JPG	11	12	8 - 10	50	5			4	Снижает получаемый от воздействия магии урон на 85%
+Тролли	http://h3world.chat.ru/15-NEITR.JPG	14	7	10 - 15	40	7			5	Регенерация.
+Алмазные големы	http://h3world.chat.ru/12-NEITR.JPG	13	12	10 - 14	60	5			4	Снижает получаемый от воздействия магии урон на 95%
+Чародеи	http://h3world.chat.ru/5-NEITRAL.JPG	17	12	14	30	9		32	6	Каждые три хода кастует (на экспертном уровне) случайное дружественное заклинание на все войска Вашего героя или случайное наступательное заклятие на все войска противника. Ход не пропускает. Если в Вашей армии несколько стеков чародеев, то магия кастуется одновременно всеми и больше за раунд не повторяется.
+Сказочные драконы	http://h3world.chat.ru/3-NEITRAL.JPG	20	20	20 - 30	500	15			7	Кастует случайную наступательную магию на войска противника как маг с силой 5 на продвинутом уровне, но не более 5-ти раз за битву. Сказочные Драконы не кастуют магию против призванных элементалей. Подробнее читай ниже.
+Ржавые драконы	http://h3world.chat.ru/4-NEITRAL.JPG	30	30	50	750	17			7	Большое существо. Летун. Атака на 2 клетки. Кислотная атака.
+Кристальные драконы	http://h3world.chat.ru/2-NEITRAL.JPG	40	40	60 - 75	800	16			7	 +1 клистал в день. Голем.
+Лазурные драконы	http://h3world.chat.ru/1-NEITRAL.JPG	50	50	70 - 80	1000	19			7	Большое существо. Летун. Атака на 2 клетки. Страх.
+Привидения	http://geglov3.narod.ru/jpg/Monster/ghost.jpg	11	8	1  -  2	5	8			3	Нежить, Иммунитет к Армагеддону, Летун
+Арктические снайперы	http://geglov3.narod.ru/jpg/Monster/arctic_sharpshooter.jpg	13	12	10 - 14	60	5	3	23	5	Стрелок. Стреляет на любые расстояния. Бесстрашный. Воздушный Щит.
+Драколичи	http://geglov3.narod.ru/jpg/Monster/dracolich.jpg	45	45	50-80	800	16	1	5	8	Нежить, Большое существо, Стелок, Летун, Урон по площади
+Фанатики Войны	http://geglov3.narod.ru/jpg/Monster/war_zealot.jpg	14	10	10 - 12	40	8	2	24	5	Стрелок. Волшебное зеркало. Нет шрафа рукопашной.
+Сильванские кетнавры	http://geglov3.narod.ru/jpg/Monster/sylvan_centaur.jpg	10	5	4 - 6	15	8	7	24	3	Большое существо. Стрелок. Стреляет дважды.Веселье.
+Санта-Гремлины	http://geglov3.narod.ru/jpg/Monster/santa_gremlin.jpg	5	5	2 - 3	5	5	14		1	Стрелок.
+Волшебницы	http://geglov3.narod.ru/jpg/Monster/sorceress.jpg	15	13	10-13	35	8	2	24	5	Стрелок.
+Закалённые Снайперы	http://geglov3.narod.ru/jpg/Monster/lava_sharpshooter.jpg	12	11	8 - 10	15	9	3	32	5	Стрелок. Нет штрафа дистанции. Атака по площади.
+Пожары	http://geglov3.narod.ru/jpg/Monster/hell_steed.jpg	15	15	18 - 24	100	8	2		6	Большое существо. Огненный щит. Стена Огня.
+Кошмары	http://geglov3.narod.ru/jpg/Monster/nightmare.jpg	15	14	18-22	110	9	2		6	Большое существо. Взгляд Смерти.
+Горынычи	http://geglov3.narod.ru/jpg/Monster/gorynych.jpg	20	20	25-45	250	8	1		7	Большое существо. Летун. Атакует всех вокруг.
+Оборотни	http://geglov3.narod.ru/jpg/Monster/werewolf.jpg	10	12	6 - 9	35	7	4		3	Превращают. В полнолуние под Берсерком.
+Бароны ада	http://geglov3.narod.ru/jpg/Monster/antichrist.jpg	35	37	45-60	400	17	1		8	Иммунитет к магии огня, земли, разума. Печаль.
+Кровавые Драконы	http://geglov3.narod.ru/jpg/Monster/blood_dragon.jpg	25	23	38-75	400	14	1		8	
+Темные драконы	http://geglov3.narod.ru/jpg/Monster/darkness_dragon.jpg	33	33	60-75	600	15	1		8	
+Призрачные чудища	http://geglov3.narod.ru/jpg/Monster/ghost_behemoth.jpg	25	25	45-75	600	11	1		8	
+Кошмарные гидры	http://geglov3.narod.ru/jpg/Monster/hell_hydra.jpg	25	27	38-68	500	10	1		8	
+Верховные архангелы	http://geglov3.narod.ru/jpg/Monster/supreme_archangel.jpg	40	40	75	500	18	1		8	Большое существо. Летун. Колдун (Воскрешение).
+Алмазные драконы	http://geglov3.narod.ru/jpg/Monster/diamond_dragon.jpg	36	36	60-75	500	16	1		8	Большое существо.
+Громовержцы	http://geglov3.narod.ru/jpg/Monster/lord_of_thunder.jpg	32	32	60-75	600	12	1	24	8	
+Духи погребального костра	http://geglov3.narod.ru/jpg/Monster/sacred_phoenix.jpg	28	28	45-60	400	19	1		8	
+Посланники Огня	http://geglov3.narod.ru/jpg/Monster/fire_mes.jpg	14	12	13-18	70	5	2		4	
+Посланники Воздуха	http://geglov3.narod.ru/jpg/Monster/air_mes.jpg	13	14	10-14	80	5	2		4	
+Посланники Земли	http://geglov3.narod.ru/jpg/Monster/earth_mes.jpg	13	14	10-14	70	5	2		4	
+Посланники воды	http://geglov3.narod.ru/jpg/Monster/water_mes.jpg	13	12	10 - 14	80	5	2		4	
